@@ -1,0 +1,24 @@
+.q-button{
+    height: 36px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    outline: auto;
+    color: #fff;
+    min-width: 80px;
+    cursor: pointer;
+    padding: 0 16px;
+
+}
+
+.q-button-primary{
+    background-color: rgb(69, 69, 238) !important;
+}
+
+.q-button-primary:hover{
+    background-color: rgb(37, 37, 239) !important;
+}
+
+.q-button-primary:focus{
+    background-color: rgb(48, 57, 239);
+}
+
